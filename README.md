@@ -323,15 +323,7 @@ This project is licensed under the Apache License 2.0.
 ## 🔗 Connect
 
 <p align="center">
-  <a href="https://github.com/UnicusT11">
-    <img src="./figure/github.png" width="30" height="30" alt="GitHub">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/hhh69806">
-    <img src="./figure/x.png" width="30" height="30" alt="X">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://xhslink.cn/o/AKxIsWPUHg">
-    <img src="./figure/xiaohongshu.png" width="30" height="30" alt="Xiaohongshu">
-  </a>
+  <a href="https://github.com/UnicusT11"><img src="./figure/github.png" width="40" height="40" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/hhh69806"><img src="./figure/x.png" width="40" height="40" alt="X"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://xhslink.cn/o/AKxIsWPUHg"><img src="./figure/xiaohongshu.png" width="40" height="40" alt="Xiaohongshu"></a>
 </p>
