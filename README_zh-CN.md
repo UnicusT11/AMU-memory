@@ -318,18 +318,12 @@ AMU 在一个使用 GPT-4o 构建的受控记忆写入与检索基准上进行�
 
 本项目基于 Apache License 2.0 开源。
 
-## 🔗 主页链接
+## 🔗 联系与交流
+
+关注项目动态、更新以及相关工作。如果你对 AMU、记忆系统或个性化 AI 有任何问题、反馈、合作想法，或者只是想交流相关思路，都欢迎通过下面的平台联系我们。
 
 <p align="center">
-  <a href="https://github.com/UnicusT11">
-    <img src="https://cdn.simpleicons.org/github/1F6FEB" alt="GitHub" width="28" height="28">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/hhh69806">
-    <img src="https://cdn.simpleicons.org/x/1F6FEB" alt="X" width="28" height="28">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://xhslink.cn/o/AKxIsWPUHg">
-    <img src="https://cdn.simpleicons.org/xiaohongshu/1F6FEB" alt="Xiaohongshu" width="28" height="28">
-  </a>
+  <a href="https://github.com/UnicusT11"><img src="./figure/github.png" width="40" height="40" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/hhh69806"><img src="./figure/x.png" width="40" height="40" alt="X"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://xhslink.cn/o/AKxIsWPUHg"><img src="./figure/xiaohongshu.png" width="40" height="40" alt="Xiaohongshu"></a>
 </p>
