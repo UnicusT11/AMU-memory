@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      width: 260px;
+      padding: 12px;
+    }
+
+    h3 {
+      margin-top: 0;
+      font-size: 16px;
+    }
+
+    input {
+      width: 100%;
+      box-sizing: border-box;
+      padding: 6px 8px;
+      margin-top: 6px;
+    }
+
+    .mode-group {
+      display: flex;
+      gap: 8px;
+      margin-top: 12px;
+      margin-bottom: 14px;
+    }
+
+    .mode-btn {
+      flex: 1;
+      padding: 8px 0;
+      border: 1px solid #ccc;
+      background: white;
+      cursor: pointer;
+      border-radius: 8px;
+      font-size: 13px;
+    }
+
+    .mode-btn.active {
+      background: #222;
+      color: white;
+      border-color: #222;
+    }
+
+    button#saveBtn {
+      width: 100%;
+      padding: 8px 0;
+      border: none;
+      background: #2d6cdf;
+      color: white;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    #status {
+      margin-top: 10px;
+      font-size: 13px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h3>API SET</h3>
+
+  <input
+    id="apiUrl"
+    placeholder="http://127.0.0.1:8000"
+  />
+
+  <div class="mode-group">
+    <button class="mode-btn" data-mode="retrieve">retrieve</button>
+    <button class="mode-btn" data-mode="save">save</button>
+    <button class="mode-btn" data-mode="chat">chat</button>
+  </div>
+
+  <button id="saveBtn">SAVE</button>
+
+  <p id="status"></p >
+
+  <script src="popup.js"></script>
+</body>
+</html>
