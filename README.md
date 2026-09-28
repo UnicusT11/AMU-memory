@@ -321,6 +321,7 @@ This project is licensed under the Apache License 2.0.
 
 
 ## 🔗 Connect
+Follow the project, updates, and related work. You can also reach out through the platforms below for questions, feedback, collaboration, or discussions around AMU and personalized memory systems.
 
 <p align="center">
   <a href="https://github.com/UnicusT11"><img src="./figure/github.png" width="40" height="40" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;
