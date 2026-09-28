@@ -1,6 +1,6 @@
 #   
 <p align="right">  
-  🌏 Language: English | <a href="./README_CN.md">中文</a>  
+  🌏 Language: English | <a href="./README_zh-CN.md">中文</a>  
 </p>  
 
 # AMU: Admission and Memory Update for Personalized Conversations  
